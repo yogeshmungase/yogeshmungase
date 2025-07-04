@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/yogeshmungase">GitHub</a> |
   <a href="https://linkedin.com/in/yogesh-mungase">LinkedIn</a> |
-  <a href="https://technopowerinduction.com">Portfolio</a> |
+<!--   <a href="#">Portfolio</a> | -->
   <a href="mailto:yogeshmungase2002@gmail.com">Email</a>
 </p>
 
